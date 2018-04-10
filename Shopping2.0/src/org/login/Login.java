@@ -33,7 +33,7 @@ public class Login {
 		return false;
 	}
 
-	public static boolean AuthenticateAdmin(String ADMIN, String PASSWORD)
+	public  boolean AuthenticateAdmin(String ADMIN, String PASSWORD)
 	{
 	
 		try

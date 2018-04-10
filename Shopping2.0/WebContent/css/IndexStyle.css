@@ -15,10 +15,12 @@ body{
 	padding:20px;
 	color: white;
 }
+
 .nav-bar img{
 	float: left;
 	padding: 5px;
 }
+
 .nav-bar a:hover{
 	background-color:white;
 	color: black;

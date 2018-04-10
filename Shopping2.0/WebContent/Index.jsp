@@ -109,7 +109,7 @@ else
 		<div class="popup-body">
 			<form action="adminLogin.jsp" method="post">
 				<input type="text" class="textbox" id="adname" name="adname" spellcheck="false" autocomplete="off" placeholder="Username" size=25/><br>
-				<input type="password" class="textbox" id="adword" name="adword" spellcheck="false" autocomplete="off" placeholder="Password" size=25/><br>
+				<input type="password" class="textbox" id="adpsd" name="adpsd" spellcheck="false" autocomplete="off" placeholder="Password" size=25/><br>
 				<input type="submit" class="button" id="adminsubmit" value="Proceed" name="adminsubmit"/>
 			</form>
 		</div>
