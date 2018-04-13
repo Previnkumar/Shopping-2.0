@@ -15,13 +15,15 @@
 		{
 			session.setAttribute("session",true);
 			session.removeAttribute("error");
+			response.sendRedirect("adminPanel.jsp");
 		}
 		else
 		{
 			session.setAttribute("session",false);
 			session.setAttribute("error","Please Check your Login credentials");
+			response.sendRedirect("Index.jsp");
 		}
-		response.sendRedirect("adminPanel.jsp");
+		
 	%>
 </body>
 </html>

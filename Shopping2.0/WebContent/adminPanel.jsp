@@ -13,8 +13,8 @@
 		<img src="images/shoppingIcon.jpg" width="75" height="50" alt="ICON"/>
 		<a href="#">My Products</a>
 		<a href="#">Add Admin</a>
-		<a href="#">Add Product</a>
-		<a href="#" style="float:right">Logout</a>
+		<a href="AddProduct.jsp">Add Product</a>
+		<a href="userLogout.jsp" style="float:right">Logout</a>
 	</div>	
 	<!-- footer -->
 	<div class="footer">

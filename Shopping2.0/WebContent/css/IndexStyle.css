@@ -4,7 +4,7 @@ body{
 	overflow: auto;
 }
 .nav-bar{
-	background-color: #37B48C;
+	background-color: #2874F0;
 	overflow: hidden;
 }
 .nav-bar a{
@@ -41,7 +41,7 @@ body{
 	margin: auto;
 	position: relative;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
-	background-color: #37B48C;
+	background-color: #2874F0;
 	text-align: center;
 	-webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -72,7 +72,7 @@ body{
 }
 .popup-close{
 	float:right;
-	color: #37B48C;
+	color: #2874F0;
 	font-size: 22px;
 	font-weight: bold;
 	padding: 5px;
@@ -86,7 +86,7 @@ body{
 	outline: 0;
 	border: 0;
 	border-bottom: 2px solid white;
-	background-color: #37B48C;
+	background-color: #2874F0;
 	font-size: 18px;
 	color:white;
 	margin-top: 15px;
@@ -99,7 +99,7 @@ body{
 	margin-top: 25px;
 	font-size: 18px;
 	border: 0;
-	color: #37B48C;
+	color: #2874F0;
 	font-weight: bold;
 }
 .textbox:focus, .button:focus{
@@ -117,7 +117,7 @@ body{
 	bottom: 0;
 	text-align: center;
 	position: absolute;
-	background-color: #37B48C;
+	background-color: #2874F0;
 	font-family: courier;
 	width: 100%;
 	line-height: 0.5;
