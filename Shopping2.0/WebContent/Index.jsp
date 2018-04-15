@@ -92,7 +92,7 @@ else
 
 <!-- footer -->
 <div class="footer">
-		<p>Contact:</p>
+		<p>Contact/Want to sell product here?</p>
 		<p>Mail@ prevink27@gmail.com</p>
 		<p>Call@ 9566917026</p>
 		<p id="admin-link"class="foot-link">Admin Login?</p>
@@ -100,6 +100,7 @@ else
 
 
 <!-- Admin Login -->
+
 <div id="admin-popup" class="popup">
 	<div class="popup-content">
 		<div class="popup-header">
